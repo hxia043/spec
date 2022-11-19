@@ -1,7 +1,7 @@
-Q: What's the Sphinx?  
-A: Sphinx is the doc generator/framework which can generate the doc with specific format(pdf/html) according to the specific input(reStructureText or Markdown). Use Sphnix can simplify the edit, deployment and maintain of doc or html cause the function provided by Sphinx.   
+**Q: What's the Sphinx?**  
+A: Sphinx is the doc generator/framework which can generate the doc with specific format(pdf/html) according to the specific input(reStructuredText or Markdown). Use Sphnix can simplify the edit, deployment and maintain of doc or html cause the function provided by Sphinx.   
 
-Q: How to use the Sphinx?  
+**Q: How to use the Sphinx?**  
 A:
 1) install the Sphinx:
 ```
@@ -43,7 +43,7 @@ $ make html
 For check the website of doc, can `Open With the Live Server` in build/html/index.html by vs code tool.
 After finished can deployment the build into nginx server which provide the service of web.
 
-Q: reference of Sphinx?  
+**Q: reference of Sphinx?**   
 A:   
 - [quickstart](https://www.sphinx-doc.org/zh_CN/master/usage/quickstart.html)
 - [reStructuredText](https://www.sphinx-doc.org/zh_CN/master/usage/restructuredtext/directives.html#)
